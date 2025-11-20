@@ -1,2 +1,2 @@
-Written for Kaggle's Digit Recognizer Competition
-Ran with Google Colab
+• Written for Kaggle's Digit Recognizer Competition <br>
+• Ran with Google Colab
